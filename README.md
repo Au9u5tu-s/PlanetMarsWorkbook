@@ -1,4 +1,3 @@
-Great! Now that we have the VBA modules, I'll proceed to create the GitHub README report. Here's a draft of the README:
 
 ---
 
